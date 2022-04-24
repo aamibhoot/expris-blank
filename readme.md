@@ -4,7 +4,7 @@
     <h1 align="center">Expris — Express x Prisma (Blank)</h1>
   </a>
 </p>
-This is a super-duper go-to blank starter for your next awsome project with
+This is a super-duper go-to blank starter for your next awesome project with
 
 - [Express Js](https://expressjs.com)
 - [Prsma ORM](https://www.prisma.io)
