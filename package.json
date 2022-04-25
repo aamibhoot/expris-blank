@@ -1,7 +1,7 @@
 {
   "name": "expris-blank",
   "author": "Aami Bhoot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "aamibhoot/expris-blank",
   "description": "This is a super-duper go-to blank starter for your next awsome project with Express Js & Prisma ORM",
   "keywords": [
@@ -30,10 +30,11 @@
     "gradient-string": "^2.0.1",
     "inquirer": "^8.2.2",
     "nanospinner": "^1.1.0",
+    "npe": "^1.2.0",
     "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
-    "prisma": "^3.12.0",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "prisma": "^3.12.0"
   }
 }
